@@ -1,6 +1,6 @@
 # datasheet_cli
 Datasheet Search CLI
-=======
+-----
 
 Simple Google Search for datasheets (pdf) of any specified component.
 
